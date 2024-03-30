@@ -64,7 +64,6 @@ galleryList.innerHTML = galleryItems;
 
 
 // делегування подій
-
 galleryList.addEventListener('click', event => {
     event.preventDefault();
     
